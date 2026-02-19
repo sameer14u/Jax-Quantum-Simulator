@@ -15,7 +15,7 @@ A high-performance, GPU-accelerated quantum simulation package built entirely in
 
 
 ## 🎓 Acknowledgments
-This is an ongoing research project being developed under the guidance of **Dr. [cite_start]Sangkha Borah** at the **Indian Institute of Technology (IIT) Hyderabad**.
+This is an ongoing research project being developed under the guidance of **Dr.Sangkha Borah** at the **Indian Institute of Technology (IIT) Hyderabad**.
 
 ## ⚙️ Installation
 
